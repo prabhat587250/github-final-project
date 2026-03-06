@@ -1,8 +1,8 @@
-$ curl -X GET https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+$ curl -X GET https://api.github.com/repos/prabhat587250/mcino-Introduction-to-Git-and-GitHub/pulls
 
 [
  {
-  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+  "url": "https://api.github.com/repos/prabhat587250/mcino-Introduction-to-Git-and-GitHub/pulls/1",
   "state": "open",
   "title": "Bug fix typo",
   "head": {
