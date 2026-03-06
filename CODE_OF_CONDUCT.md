@@ -33,3 +33,6 @@ Instances of abusive behavior may be reported to the project maintainers.
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant.
+
+## Enforcement Guidelines
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
